@@ -28,7 +28,7 @@ mainopens.Parent = mainopen
  loki.BackgroundTransparency = 1.000
  loki.Position = UDim2.new(-0.0529999994, 0, -0.244000003, 0)
  loki.Size = UDim2.new(0, 69, 0, 62)
- loki.Image = "https://i.pinimg.com/564x/08/25/06/082506876327d31cb742bdfa55ebef87.jpg"
+ loki.Image = "https://media.discordapp.net/attachments/1120403497591001138/1120403647839338608/rosto.png?width=309&height=369"
  
  posto.Name = "posto"
  posto.Parent = mainopen
